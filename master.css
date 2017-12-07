@@ -1,0 +1,88 @@
+body{
+  background-color: lightgrey;
+}
+
+.main {
+  background-color: white;
+  margin-left: 10px;
+  width: 950px;
+  height: 600px;
+  padding: 25px 25px 25px 25px;
+}
+
+h1{
+padding: 50px 50px 50px 50px;
+
+}
+a:link, a:visited {
+    background-color: grey;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: darkgrey;
+}
+.bannerimg{
+
+}
+nav{
+color: white;
+font-size: 25px;
+padding-left: 15px;
+padding-bottom: 15px;
+
+}
+
+
+
+main{
+
+  padding: 15px 15px 15px 15px;
+}
+
+
+/*EVERYTHING BELOW IS EVIL*/
+.welcomeimg{
+  padding: 30px 30px 30px 30px;
+  float: right;
+
+  }
+.Kali{
+  width: 80%;
+}
+
+form{
+  padding-left: 50px;
+}
+#col1{
+  width: 50%;
+}
+#col2{
+  height: 50%;
+  width: 50%;
+  float: right;
+  padding-right: 0px;
+  margin-bottom: 0px;
+}
+.contact{
+  padding: 15PX 15PX 15PX 15PX;
+  position: inherit;
+  background-color: darkgrey;
+  border: solid;
+  float: right;
+  margin: -275px 0px 0px 600px;
+  font-size: 18px;
+}
+table{
+  background-color: ;
+}
+th{
+  text-align: left;
+}
+.footertext{
+  padding-left: 20px;
+}
